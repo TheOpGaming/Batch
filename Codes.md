@@ -1,4 +1,7 @@
 
+      #   Anti-Virus software may give false posotives... The files I make are 100% safe!
+
+
 # Codes - Batch :
   Codes that were converted into .exe programs to show they are not malicious.
 
